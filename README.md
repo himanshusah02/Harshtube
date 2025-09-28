@@ -2,7 +2,7 @@
 # utube -clone   
 
 app.use(express.json({limit:"16kb" }))
-//how much , which type of data are accept from the frontend - that are new  syntax , before that we are setup the the parser for that function , form se data send kiya 
+//how much , which type of data are accept from the frontend - that are new  syntax , before that we are setup the the parser for that function 
 
 express.multer  - that are use to handel the file pass from the frontend
 
